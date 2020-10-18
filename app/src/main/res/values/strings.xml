@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculator activity</string>
+    <string name="_5">5</string>
+    <string name="_3">3</string>
+    <string name="number">Number</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_4">4</string>
+    <string name="sign">=</string>
+    <string name="number">Number</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_sign">.</string>
+    <string name="_9">9</string>
+    <string name="calculator">Calculator</string>
+    <string name="__sign">+</string>
+    <string name="_0">0</string>
+    <string name="answer">Answer</string>
+    <string name="delete">Delete</string>
+    <string name="___sign">Sign</string>
+    <string name="____sign">*</string>
+    <string name="_____sign">-</string>
+    <string name="______sign">/</string>
+</resources>
